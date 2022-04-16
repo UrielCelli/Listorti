@@ -1,0 +1,14 @@
+[
+    {
+        "paso": 1,
+        "tarea": "Escriba el titulo que desea ponerle a su lista"
+    },
+    {    
+         "paso": 2,
+         "tarea":"Escriba las tareas que debe realizar"
+    },
+    {
+        "paso": 3,
+        "tarea":"Elimine las tareas una vez realizadas"
+    }
+]
